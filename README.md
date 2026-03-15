@@ -2,10 +2,8 @@
 
 I'm a Backend Developer and IT student at Dong A University, passionate about building scalable architectures, network administration, and automated systems. 
 
-I heavily embrace **"Vibe Coding"** and leverage AI-driven workflows to ship production-ready code efficiently.
-
 ### 🚀 About Me
-* 🔭 **Currently working on:** [AURORA-BOT](https://github.com/vuinguyen16003069/AURORA-BOT) - A high-performance Messenger chatbot featuring real-time file monitoring and automated data caching.
+* 🔭 **Currently working on:** [Mirai-bot-v3](https://github.com/vuinguyen16003069/Mirai-bot-v3) - A high-performance Messenger chatbot featuring real-time file monitoring and automated data caching.
 * 🌱 **Currently focusing on:** Advanced Node.js (ESM Strict, Biome), Python, System Architecture, and Network Infrastructure (Proxies, Anti-detection mechanisms).
 * 👯 **Collaborating with:** Niio-team (Niioozic).
 * ⚙️ **Workflow & Philosophy:** I prioritize stability, maintainability, and strict coding standards. My primary IDE setup heavily integrates AI agents like Cursor and GitHub Copilot.
