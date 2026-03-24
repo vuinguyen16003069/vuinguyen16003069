@@ -88,7 +88,6 @@
 |:---|:---|:---|
 | [🤖 Mirai-bot-v3](https://github.com/vuinguyen16003069/Mirai-bot-v3) | High-performance Messenger Chatbot với real-time file monitoring | JavaScript · Node.js |
 | [🛒 commerce_project](https://github.com/vuinguyen16003069/commerce_project) | E-commerce Platform với full-stack implementation | HTML · CSS · JS |
-| [🖥️ cusor-pro-free](https://github.com/vuinguyen16003069/cusor-pro-free) | Cursor IDE Productivity Tool | JavaScript |
 | [📄 DemoC](https://github.com/vuinguyen16003069/DemoC) | Demo Project với EJS templating | EJS |
 | [🗄️ SQL](https://github.com/vuinguyen16003069/SQL) | SQL Learning & Practice Repository | SQL |
 
