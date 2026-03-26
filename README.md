@@ -140,6 +140,8 @@
 
 "Make it work, make it right, make it fast — in that order."
 
+"A piece of code that doesn't break is a piece of code that has nothing to break."
+
 "Today's knowledge can be tomorrow's obsolescence."
 ```
 
