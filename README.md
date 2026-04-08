@@ -29,7 +29,7 @@
 
 ## 👨‍💻 Giới thiệu bản thân
 
-> **NQVUI (G3K)** — Backend Developer đam mê xây dựng các hệ thống ổn định, mở rộng và sẵn sàng cho môi trường production. Chuyên về bot tự động, quản trị mạng, và kiến trúc microservices.
+> **NQVUI (G3K)** — Backend Developer đam mê xây dựng các hệ thống ổn định, mở rộng và sẵn sàng cho môi trường production. Chuyên về bot tự động,tự động hóa, và kiến trúc microservices.
 
 ```text
 💡 Philosophy   →  Make it work → Make it right → Make it fast
