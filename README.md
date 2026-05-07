@@ -143,6 +143,8 @@
 "A piece of code that doesn't break is a piece of code that has nothing to break."
 
 "Today's knowledge can be tomorrow's obsolescence."
+
+ "Fail Fast, Fail Clean"
 ```
 
 </div>
